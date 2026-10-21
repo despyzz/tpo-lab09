@@ -31,5 +31,7 @@ Workflow `.github/workflows/run-tests.yml` запускается при каж�
 - `test_calculator.py` — 21 параметризованная проверка;
 - `requirements.txt` — зависимость pytest;
 - `results/` — фактические результаты;
-- `отчёт.md` — отчёт по работе;
-- `скриншоты/` — подтверждения запуска GitHub Actions, добавляемые после проверки в GitHub.
+- [отчёт.md](отчёт.md) — отчёт по работе;
+- `скриншоты/` — подтверждения успешного запуска GitHub Actions.
+
+Подтверждённый запуск: [Run tests № 1 — Success](https://github.com/despyzz/tpo-lab09/actions/runs/39639389142), **21 passed**.

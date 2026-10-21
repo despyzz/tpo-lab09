@@ -1,0 +1,27 @@
+============================= test session starts ==============================
+platform linux -- Python 3.13.16, pytest-9.1.1, pluggy-1.7.0 -- /opt/hostedtoolcache/Python/3.13.16/x64/bin/python
+cachedir: .pytest_cache
+rootdir: /home/runner/work/tpo-lab09/tpo-lab09
+collecting ... collected 21 items
+test_calculator.py::test_add[2-3-5] PASSED                               [  4%]
+test_calculator.py::test_add[-4--6--10] PASSED                           [  9%]
+test_calculator.py::test_add[-4-7-3] PASSED                              [ 14%]
+test_calculator.py::test_add[0-9-9] PASSED                               [ 19%]
+test_calculator.py::test_divide[8-2-4.0] PASSED                          [ 23%]
+test_calculator.py::test_divide[-9-3--3.0] PASSED                        [ 28%]
+test_calculator.py::test_divide[9--3--3.0] PASSED                        [ 33%]
+test_calculator.py::test_divide[5-2-2.5] PASSED                          [ 38%]
+test_calculator.py::test_divide[0-5-0.0] PASSED                          [ 42%]
+test_calculator.py::test_divide_by_zero[5] PASSED                        [ 47%]
+test_calculator.py::test_divide_by_zero[0] PASSED                        [ 52%]
+test_calculator.py::test_is_prime_number[-7-False] PASSED                [ 57%]
+test_calculator.py::test_is_prime_number[0-False] PASSED                 [ 61%]
+test_calculator.py::test_is_prime_number[1-False] PASSED                 [ 66%]
+test_calculator.py::test_is_prime_number[2-True] PASSED                  [ 71%]
+test_calculator.py::test_is_prime_number[3-True] PASSED                  [ 76%]
+test_calculator.py::test_is_prime_number[4-False] PASSED                 [ 80%]
+test_calculator.py::test_is_prime_number[9-False] PASSED                 [ 85%]
+test_calculator.py::test_is_prime_number[17-True] PASSED                 [ 90%]
+test_calculator.py::test_is_prime_number[25-False] PASSED                [ 95%]
+test_calculator.py::test_is_prime_number[29-True] PASSED                 [100%]
+============================== 21 passed in 0.04s ==============================

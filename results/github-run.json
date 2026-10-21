@@ -1,0 +1,21 @@
+{
+  "repository_url": "https://github.com/despyzz/tpo-lab09",
+  "visibility": "public",
+  "run_number": 1,
+  "run_id": 39639389142,
+  "run_url": "https://github.com/despyzz/tpo-lab09/actions/runs/39639389142",
+  "job_url": "https://github.com/despyzz/tpo-lab09/actions/runs/39639389142/job/119358621436",
+  "head_sha": "90b23b9aa9cc998e408ac056057984ad95f951ce",
+  "branch": "main",
+  "event": "push",
+  "status": "completed",
+  "conclusion": "success",
+  "total_duration_seconds": 11,
+  "job_duration_seconds": 7,
+  "python": "3.13.16",
+  "pytest": "9.1.1",
+  "platform": "linux",
+  "pytest_summary": "21 passed in 0.04s",
+  "evidence_source": "GitHub Actions summary and expanded Run pytest step, verified through browser UI. github-pytest.txt contains text extracted from the visible pytest output.",
+  "verified_at_moscow": "2026-10-21T19:59:09.566815+03:00"
+}
