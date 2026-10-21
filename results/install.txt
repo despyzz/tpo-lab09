@@ -1,0 +1,5 @@
+Requirement already satisfied: pytest==9.1.1 in ./.venv/lib/python3.13/site-packages (from -r requirements.txt (line 1)) (9.1.1)
+Requirement already satisfied: iniconfig>=1.0.1 in ./.venv/lib/python3.13/site-packages (from pytest==9.1.1->-r requirements.txt (line 1)) (2.3.1)
+Requirement already satisfied: packaging>=22 in ./.venv/lib/python3.13/site-packages (from pytest==9.1.1->-r requirements.txt (line 1)) (26.3)
+Requirement already satisfied: pluggy<2,>=1.5 in ./.venv/lib/python3.13/site-packages (from pytest==9.1.1->-r requirements.txt (line 1)) (1.7.0)
+Requirement already satisfied: pygments>=2.7.2 in ./.venv/lib/python3.13/site-packages (from pytest==9.1.1->-r requirements.txt (line 1)) (2.21.0)

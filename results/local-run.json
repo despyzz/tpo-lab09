@@ -1,0 +1,14 @@
+{
+  "started_at_moscow": "2026-10-21T19:55:46.766139+03:00",
+  "finished_at_moscow": "2026-10-21T19:55:47.379653+03:00",
+  "python": "3.13.5",
+  "pytest": "9.1.1",
+  "platform": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+  "working_directory": "/Users/kusov/Desktop/ТПО/ЛР09",
+  "environment_created_with": "python3.13 -m venv .venv",
+  "initial_install": "Dependencies downloaded from PyPI into a newly created environment; install.txt records the subsequent dependency check.",
+  "dependency_check_command": "python -m pip install --no-cache-dir -r requirements.txt",
+  "dependency_check_exit_code": 0,
+  "test_command": "python -m pytest -v",
+  "test_exit_code": 0
+}
